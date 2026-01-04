@@ -16,13 +16,7 @@ Inventory dashboard in Power BI with KPIs, Stock_Status, and visuals for portfol
 - Conditional formatting  
 - Dashboard design & layout  
 
-## Screenshots
+## Files in This Repository
+- Power BI dashboard (.pbix)
+- Project documentation with screenshots
 
-### Full Dashboard
-![Full Dashboard](screenshots/full_dashboard.png)
-
-### Bar Chart
-![Bar Chart](screenshots/bar_chart.png)
-
-### Stock Table
-![Stock Table](screenshots/stock_table.png)
